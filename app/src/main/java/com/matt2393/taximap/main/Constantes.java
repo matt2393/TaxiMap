@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class Constantes {
 
-    public final static String URL="http://radiomoviltourarevalo-or.hol.es/"; //192.168.56.1 virtual box //http://radiomoviltourarevalo-or.hol.es/ dominio
+    public final static String URL="http://localhost/TaxiMap/"; //192.168.56.1 virtual box 
     public final static String URL_GET_USUARIOS=URL+"api/Api_rest/user";
     public final static String URL_PUT_USUARIO=URL+"api/Api_rest/user";
     public final static String URL_POST_RECORRIDO=URL+"api/Api_rest/recorrido";
