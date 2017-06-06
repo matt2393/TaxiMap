@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/fondo_screem">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="35sp"
+        android:id="@+id/titulo_splash"
+        android:layout_margin="20dp"/>
+        <ImageView
+            android:layout_width="270dp"
+            android:layout_height="270dp"
+            android:id="@+id/imagen_splash"
+            android:src="@drawable/radio_movil"/>
+
+</LinearLayout>

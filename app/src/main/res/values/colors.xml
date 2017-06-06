@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#7b9fb1</color>
+
+    <color name="fondo_screem">#e3e8ea</color>
+    <color name="colorLibre">#4CAF50</color>
+    <color name="colorOcupado">#FDD835</color>
+    <color name="colorAlerta">#F44336</color>
+</resources>
